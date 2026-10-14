@@ -240,7 +240,7 @@ export default function StatsStreaks() {
                   style={{ width: '95%' }}
                 ></div>
               </div>
-              <p className="text-xs text-gray-400 mt-2">Top 3% Globally</p>
+              <p className="text-xs text-gray-400 mt-2">Top 2% Globally</p>
             </div>
           </div>
         </div>
