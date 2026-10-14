@@ -117,7 +117,7 @@ export default function Footer() {
             </a>
             <span className="text-gray-600">•</span>
             <a
-              href="https://github.com/karthik-com"
+              href="https://github.com/somayajula-karthik"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-green-400 transition text-xs"

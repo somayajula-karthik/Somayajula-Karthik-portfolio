@@ -12,7 +12,7 @@ export default function Projects() {
         "Responsive email interface with React + Vite"
       ],
       tech: ["Python", "Django", "React", "Vite", "Tailwind CSS", "MongoDB", "JWT", "Qiskit", "AWS SNS"],
-      github: "https://github.com/karthik-com/QuMail-Quantum-Secure-Email-Application",
+      github: "https://github.com/somayajula-karthik/QuMail-Quantum-Secure-Email-Application",
       highlights: "🏆 Advanced cryptography implementation"
     },
     {
@@ -40,7 +40,7 @@ export default function Projects() {
         "Bootstrap-based responsive UI"
       ],
       tech: ["Python", "Django", "HTML", "CSS", "Bootstrap", "MySQL"],
-      github: "https://github.com/karthik-com/Image_Steganography_using_LSB_python_django",
+      github: "https://github.com/somayajula-karthik/Image_Steganography_using_LSB_python_django",
       highlights: "🔒 Secure Data Hiding"
     },
     {
@@ -54,7 +54,7 @@ export default function Projects() {
         "Data visualization dashboard"
       ],
       tech: ["Python", "Django", "Machine Learning", "Pandas", "Scikit-learn", "HTML", "CSS"],
-      github: "https://github.com/karthik-com/Tweet-Based-Bot-Detection-using-Big-Data-Analytics",
+      github: "https://github.com/somayajula-karthik/Tweet-Based-Bot-Detection-using-Big-Data-Analytics",
       highlights: "🏆 95% Accuracy | Big Data Analytics"
     },
   ];

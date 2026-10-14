@@ -53,7 +53,7 @@ export default function Hero({ onNavigate }) {
                 View Projects
               </button>
               <a
-                href="https://github.com/karthik-com"
+                href="https://github.com/somayajula-karthik"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-8 py-3 bg-blue-500/20 border border-blue-500 text-blue-400 rounded-lg hover:bg-blue-500/30 transition font-semibold"
@@ -61,7 +61,7 @@ export default function Hero({ onNavigate }) {
                 GitHub
               </a>
               <a
-                href="https://karthik-com.github.io/Somayajula-Karthik-Resume/"
+                href="https://somayajula-karthik.github.io/Somayajula-Karthik-Resume/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-8 py-3 bg-purple-500/20 border border-purple-500 text-purple-400 rounded-lg hover:bg-purple-500/30 transition font-semibold"
