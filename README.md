@@ -4,7 +4,7 @@
 
 A modern, responsive portfolio website showcasing my expertise in cybersecurity, full-stack development, and competitive programming achievements.
 
-**🌐 Live Portfolio:** [https://karthik-com.github.io/Somayajula-Karthik-portfolio/](https://karthik-com.github.io/Somayajula-Karthik-portfolio/)
+**🌐 Live Portfolio:** [https://somayajula-karthik.github.io/Somayajula-Karthik-portfolio/](https://somayajula-karthik.github.io/Somayajula-Karthik-portfolio/)
 
 ---
 
@@ -198,7 +198,7 @@ LeetCode: 231 problems solved | TryHackMe: Master Level
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/karthik-com/Somayajula-Karthik-portfolio.git
+git clone https://github.com/somayajula-karthik/Somayajula-Karthik-portfolio.git
 cd Somayajula-Karthik-portfolio
 
 # 2. Install dependencies
@@ -297,7 +297,7 @@ Configuration Files:
    - Save
 
 5. **Verify:**
-   - Website should be live at: `https://karthik-com.github.io/Somayajula-Karthik-portfolio/`
+   - Website should be live at: `https://somayajula-karthik.github.io/Somayajula-Karthik-portfolio/`
 
 ### Custom Domain (Optional)
 Create a `CNAME` file in `public/` folder with your domain name to use a custom domain.
@@ -311,7 +311,7 @@ Create a `CNAME` file in `public/` folder with your domain name to use a custom 
 - 📧 **Email:** [somayajulakarthik97@gmail.com](mailto:somayajulakarthik97@gmail.com)
 - 📱 **Phone:** [+91 7396252914](tel:+917396252914)
 - 💬 **WhatsApp:** [Send message](https://wa.me/917396252914)
-- 🐙 **GitHub:** [@karthik-com](https://github.com/karthik-com)
+- 🐙 **GitHub:** [@somayajula-karthik](https://github.com/somayajula-karthik)
 - 💻 **LeetCode:** [@somayajulakarthik97](https://leetcode.com/u/somayajulakarthik97)
 - 🎯 **TryHackMe:** [@karthiksoma](https://tryhackme.com/p/karthiksoma)
 
@@ -389,9 +389,9 @@ This is a personal portfolio, but if you'd like to suggest improvements:
 
 ## 🎯 Quick Links
 
-- [Live Portfolio](https://karthik-com.github.io/Somayajula-Karthik-portfolio/)
-- [GitHub Repository](https://github.com/karthik-com/Somayajula-Karthik-portfolio)
-- [GitHub Profile](https://github.com/karthik-com)
+- [Live Portfolio](https://somayajula-karthik.github.io/Somayajula-Karthik-portfolio/)
+- [GitHub Repository](https://github.com/somayajula-karthik/Somayajula-Karthik-portfolio)
+- [GitHub Profile](https://github.com/somayajula-karthik)
 - [LeetCode Profile](https://leetcode.com/u/somayajulakarthik97)
 - [TryHackMe Profile](https://tryhackme.com/p/karthiksoma)
 
