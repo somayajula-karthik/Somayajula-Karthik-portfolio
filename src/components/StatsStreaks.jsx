@@ -2,29 +2,29 @@ export default function StatsStreaks() {
   const leetcodeStats = {
     username: '@somayajulakarthik97',
     profileUrl: 'https://leetcode.com/u/somayajulakarthik97',
-    problemsSolved: 231,
+    problemsSolved: 267,
     language: 'Python',
-    globalRank: 721598,
+    globalRank: 603010,
     acceptanceRate: '72%',
-    easyCount: 70,
-    mediumCount: 112,
-    hardCount: 49,
-    currentStreak: '180+',
-    badges: 7,
-    contestRating: 1660,
-    contestsParticipated: 8
+    easyCount: 78,
+    mediumCount: 132,
+    hardCount: 57,
+    currentStreak: '200+',
+    badges: 9,
+    contestGlobalRanking: '117542/887132',
+    contestsParticipated: 11
   };
 
   const tryhackmeStats = {
     username: '@karthiksoma',
     profileUrl: 'https://tryhackme.com/p/karthiksoma',
-    roomsCompleted: '150+',
-    globalRank: 58844,
-    percentile: 'Top 3%',
-    totalPoints: '15,000+',
-    currentStreak: '160+',
-    badges: 24,
-    level: 'MASTER'
+    roomsCompleted: '170+',
+    globalRank: 42905,
+    percentile: 'Top 2%',
+    totalPoints: '18,000+',
+    currentStreak: '190+',
+    badges: 31,
+    level: 'GURU'
   };
 
   return (
@@ -103,9 +103,9 @@ export default function StatsStreaks() {
               {/* Contest Rating */}
               <div className="bg-slate-800/50 border border-green-500/20 rounded-lg p-4 md:p-5 hover:border-green-500/30 transition-colors">
                 <p className="text-xs md:text-sm text-gray-400 mb-2 flex items-center gap-1">
-                  <span>📈</span> Contest Rating
+                  <span>📈</span> Contests Stats
                 </p>
-                <p className="text-2xl md:text-3xl font-bold text-yellow-400">{leetcodeStats.contestRating}</p>
+                <p className="text-2xl md:text-2xl font-bold text-yellow-400">{leetcodeStats.contestGlobalRanking}</p>
                 <p className="text-xs text-gray-500 mt-1">Contests Participated - {leetcodeStats.contestsParticipated}</p>
               </div>
             </div>
