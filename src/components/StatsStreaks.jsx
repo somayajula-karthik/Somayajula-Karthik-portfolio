@@ -55,7 +55,7 @@ export default function StatsStreaks() {
                 rel="noopener noreferrer"
                 className="whitespace-nowrap px-3 md:px-4 py-2 bg-green-500/20 border border-green-500/50 text-green-400 hover:bg-green-500/30 rounded-lg text-xs md:text-sm font-semibold transition-colors"
               >
-                Visit Profile →
+                Visit My Profile →
               </a>
             </div>
 
@@ -176,7 +176,7 @@ export default function StatsStreaks() {
                 rel="noopener noreferrer"
                 className="whitespace-nowrap px-3 md:px-4 py-2 bg-blue-500/20 border border-blue-500/50 text-blue-400 hover:bg-blue-500/30 rounded-lg text-xs md:text-sm font-semibold transition-colors"
               >
-                Visit Profile →
+                Visit My Profile →
               </a>
             </div>
 

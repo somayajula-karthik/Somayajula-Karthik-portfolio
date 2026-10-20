@@ -2,7 +2,7 @@ export default function Skills() {
   
   const skillCategories = [
     {
-      title: "Cybersecurity",
+      title: "Cyber Security",
       color: "green",
       icon: "🔐",
       skills: [
@@ -15,6 +15,7 @@ export default function Skills() {
         "OWASP",
         "Threat Analysis",
         "Cryptography",
+        "Quantum Cryptography",
         "Network Security",
         "Cloud Security",
         "Secure Communication"
